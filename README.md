@@ -6,6 +6,8 @@
 
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
+ <a href="https://yeees.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+
 <a href="https://yeees.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=BLOG&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=BLOG&logoColor=white"/>
