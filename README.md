@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/Travis CI-3EAAAF?style=flat&logo=travisci&logoColor=white" />
         <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
-	
 </div>
 </br>
 
@@ -32,7 +31,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonju-kim&show_icons=true&theme=buefy)
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=yeees&theme=default)](https://yeees.tistory.com)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonju-kim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!--
+[![hyeonju-kim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyeonju-kim)]
+-->
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yocu1784)](https://solved.ac/yocu1784/)
