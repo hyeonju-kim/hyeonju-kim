@@ -1,7 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Jenny's%20GitHub&fontSize=40"/>
 
-👋  안녕하세요! **자바 백엔드 개발자**입니다.  
+### Hi there 👋
+# I'm Backend Developer!
 
 
 ## **👩 About Me**  
@@ -37,5 +38,16 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yocu1784)](https://solved.ac/yocu1784/)
 -->
 
-
+<!--
+**min-0/min-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
  
