@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Jenny's%20GitHub&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Jenny's%20GitHub&fontSize=40"/>
 
 👋  안녕하세요! **자바 백엔드 개발자**입니다.  
 
