@@ -24,7 +24,10 @@
 	
 </div>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonju-kim)](https://github.com/hyeonju-kim/github-readme-stats)
+
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonju-kim&langs_count=10&layout=compact&theme=light)](https://github.com/hyeonju-kim)
+
+ </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonju-kim&show_icons=true&theme=buefy)
 
