@@ -1,26 +1,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Jenny's%20GitHub&fontSize=90"/>
 
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-
- <a href="https://yeees.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-
-<a href="https://yeees.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=BLOG&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=BLOG&logoColor=white"/>
+👋  안녕하세요! **자바 백엔드 개발자**입니다.  
 
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
+## **👩 About Me**  
+   <a href="https://yeees.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+   <a href="yocu1784@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yocu1784@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
-
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+## **💪 Skills**
+<div style="display: flex; flex-direction: row;">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
+    <img src="https://img.shields.io/badge/amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/intelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+    <img src="https://img.shields.io/badge/JPA-000000?style=flat&logo=jpa&logoColor=white" />
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
+    <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Travis CI-3EAAAF?style=flat&logo=travisci&logoColor=white" />
+        <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
+	
 </div>
+
 
 <!--
 **hyeonju-kim/hyeonju-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
