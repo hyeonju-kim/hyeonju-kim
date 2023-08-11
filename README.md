@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
     <img src="https://img.shields.io/badge/amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/intelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
     <img src="https://img.shields.io/badge/JPA-000000?style=flat&logo=jpa&logoColor=white" />
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
