@@ -1,5 +1,4 @@
 
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Nellie's%20GitHub&fontSize=40"/>
 
 ### Hi there 👋
 # I'm Backend Developer!
