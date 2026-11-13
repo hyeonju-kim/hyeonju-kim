@@ -20,7 +20,7 @@
 
 - **Kafka 처리량 3배**: 파티션을 늘려도 그대로 → 구간별 측정으로 정제 단계 병목 특정 → 건당 처리 비용 경량화 ([글](https://thenicole.tistory.com/42))
 - **GPU 서버 2분 멈춤**: 커널 로그·cgroup 추적으로 유령 cgroup 수천 개가 원인임을 규명 ([글](https://thenicole.tistory.com/46))
-- **서비스 간 이벤트 정합성**: DB 커밋과 Kafka 발행을 Transactional Outbox + 멱등 소비로 묶음 ([글](https://thenicole.tistory.com/40))
+- **서비스 간 이벤트 정합성**: DB 커밋과 Kafka 발행을 Transactional Outbox + 멱등 소비로 묶고, Kafka 장애·중복 전달을 테스트로 재현 ([글](https://thenicole.tistory.com/40) · [코드](https://github.com/hyeonju-kim/transactional-outbox-kafka))
 - **Redis Lost Update**: 분산 락·WATCH·Lua 비교 후 Lua 원자적 UPSERT로 상태 롤백 0건 ([글](https://thenicole.tistory.com/63))
 - **MySQL 쿼리 9.5초 → 0.02초**: 실행 계획 분석으로 Full Table Scan을 MAX 키 선행 필터로 바꿔 Index Range Scan 전환, 스캔 4만 건 → 8건 ([글](https://thenicole.tistory.com/7))
 - **Kafka 3중화 네트워크 설계**: Docker Bridge·MACVLAN·host 모드를 비교 검증해 host 모드로 Kafka·ZooKeeper 3중화, 운영 기간 클러스터 네트워크 장애 0건 ([글](https://thenicole.tistory.com/19))
