@@ -56,7 +56,13 @@
 
 ## 📜 Certifications
 
-AWS Certified Solutions Architect – Associate · 리눅스마스터 1급 · 정보처리기사 · SQLD · AICE Associate
+| 자격증 | 발급 기관 | 취득 |
+|---|---|---|
+| AICE Associate | KT · 한국경제신문 | 2026.08 |
+| 리눅스마스터 1급 | 한국정보통신진흥협회 | 2025.05 |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | 2025.04 |
+| 정보처리기사 | 한국산업인력공단 | 2024.06 |
+| SQLD (SQL 개발자) | 한국데이터산업진흥원 | 2023.07 |
 
 ## 🌱 About
 
