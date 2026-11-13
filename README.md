@@ -22,6 +22,7 @@
 - **GPU 서버 2분 멈춤**: 커널 로그·cgroup 추적으로 유령 cgroup 수천 개가 원인임을 규명 ([글](https://thenicole.tistory.com/46))
 - **서비스 간 이벤트 정합성**: DB 커밋과 Kafka 발행을 Transactional Outbox + 멱등 소비로 묶음 ([글](https://thenicole.tistory.com/40))
 - **Redis Lost Update**: 분산 락·WATCH·Lua 비교 후 Lua 원자적 UPSERT로 상태 롤백 0건 ([글](https://thenicole.tistory.com/63))
+- **관제 모바일 앱 1인 개발**: PC 웹으로만 보던 차량 관제를 연휴 5일 동안 Flutter 앱으로 구현, MQTT 텔레메트리·WebRTC 영상·백그라운드 알림, 영상 서버 세션 누적 문제 해결 ([글](https://thenicole.tistory.com/17) · [코드](https://github.com/hyeonju-kim/vehicle-monitor-flutter))
 
 ## 💪 Tech Stack
 
