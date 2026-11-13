@@ -1,7 +1,6 @@
 # 김현주 (Hyeonju Kim) · Backend · Data Pipeline · MLOps Engineer
 
 대량의 데이터를 **유실 없이** 흘려보내는 파이프라인과, 그 위에서 모델을 학습·배포하는 **인프라**를 만들어 온 3년 차 엔지니어입니다.
-문제가 생기면 증설부터 하지 않고, **먼저 측정해서 병목을 찾고**, 해결한 과정은 블로그에 남깁니다.
 
 [![Blog](https://img.shields.io/badge/Tech_Blog-thenicole.tistory.com-000000?style=flat&logo=tistory&logoColor=white)](https://thenicole.tistory.com)
 [![Old Blog](https://img.shields.io/badge/Archive-yeees.tistory.com-555555?style=flat&logo=tistory&logoColor=white)](https://yeees.tistory.com)
@@ -58,7 +57,7 @@ AWS Certified Solutions Architect – Associate · 리눅스마스터 1급 · �
 
 ## 🌱 About
 
-간호사·보건소 공무원으로 일하다 1년간 공부해 개발자로 전직했습니다.
-현장에서 몸에 밴 **"원인을 끝까지 확인하고 기록하는 습관"** 을 개발에서도 그대로 이어가고 있습니다.
+새로운 기술을 배우고, 문제를 원인까지 확인하는 것을 좋아합니다.
+3년 동안 백엔드에서 데이터 파이프라인, MLOps, GPU 인프라로 업무 범위를 넓혀 왔습니다. 배운 내용은 기술 블로그에 기록하고 있습니다.
 
 > 실무 코드는 회사 보안 정책상 공개하지 않으며, 설계와 트러블슈팅 과정은 [기술 블로그](https://thenicole.tistory.com)에 정리하고 있습니다.
